@@ -1,0 +1,4 @@
+C:\Users\roder\OneDrive\Documentos\Programacion\Proyecto-Interfaz-con-formulario-c-\Video5\Video5\x64\Debug\Video5.vcxproj.AssemblyReference.cache
+C:\Users\roder\OneDrive\Documentos\Programacion\Proyecto-Interfaz-con-formulario-c-\Video5\Video5\x64\Debug\Video5.Form1.resources
+C:\Users\roder\OneDrive\Documentos\Programacion\Proyecto-Interfaz-con-formulario-c-\Video5\Video5\x64\Debug\Video5.Form2.resources
+C:\Users\roder\OneDrive\Documentos\Programacion\Proyecto-Interfaz-con-formulario-c-\Video5\Video5\x64\Debug\Video5.vcxproj.GenerateResource.cache
