@@ -1,0 +1,6 @@
+C:\Users\Yahir\Documents\Tareas\Programacion\Proyecto-Interfaz-con-formulario-c-\Video6\Video6\x64\Debug\Video6.vcxproj.AssemblyReference.cache
+C:\Users\Yahir\Documents\Tareas\Programacion\Proyecto-Interfaz-con-formulario-c-\Video6\Video6\x64\Debug\Video6.Form1.resources
+C:\Users\Yahir\Documents\Tareas\Programacion\Proyecto-Interfaz-con-formulario-c-\Video6\Video6\x64\Debug\Video6.vcxproj.GenerateResource.cache
+C:\Users\Yahir\Documents\Tareas\Programacion\Proyecto-Interfaz-con-formulario-c-\Video6\Video6\x64\Debug\Video6.Clientes.resources
+C:\Users\Yahir\Documents\Tareas\Programacion\Proyecto-Interfaz-con-formulario-c-\Video6\Video6\x64\Debug\Video6.Inicio.resources
+C:\Users\Yahir\Documents\Tareas\Programacion\Proyecto-Interfaz-con-formulario-c-\Video6\Video6\x64\Debug\Video6.Ventas.resources
